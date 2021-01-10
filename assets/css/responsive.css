@@ -1,0 +1,36 @@
+/* MODERN MOBILE  */
+@media all and (min-width: 360px){
+    .card{
+        margin: 0 auto;
+        width: 350px;
+    }    
+}
+/* TABLET PORTRAIT */
+@media all and (min-width: 768px){
+    .card{
+        margin: 0 auto;
+        width: 400px;
+    }
+    .topbg-wrap{
+        width: 325px;
+    }
+    .bottombg-wrap {
+        width: 325px;
+        margin-left: 317px;
+    }
+
+}
+/* TABLET LANDSCAPE */
+@media all and (min-width: 1024px){
+    .topbg-wrap{
+        margin-left: 180px;
+    }
+
+}
+/* DESKTOP */
+@media all and (min-width: 1200px){
+    .bottombg-wrap {
+        margin-left: 480px;
+    }
+
+}

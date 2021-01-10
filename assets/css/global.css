@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 1.2rem;
+    background-color: rgb(25, 162, 174);
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+p{
+    color: rgb(106, 111, 129);
+    font-size: 1.2rem;
+}
+a{
+    text-decoration: none;
+    color: rgb(106, 111, 129);
+}
+.card{
+    max-width: 400px;
+}
+.attribution{
+    padding: 10px;
+    background-color: hsl(229, 23%, 23%);
+    text-align: center;
+}
+
+
